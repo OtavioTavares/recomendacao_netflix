@@ -1,5 +1,3 @@
-Análise sobre os dados Netflix 2019 e modelo de recomendação de filmes.
-
 <h1 style="text-align:center">
 <img src="https://m.gifmania.co.uk/TV-Series-Animated-Gifs/Animated-TV-channels-Logotypes/Netflix-Logo-91903.gif" style="width:900px;height:400px;">
 
